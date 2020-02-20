@@ -6,3 +6,4 @@ It should be a list of major articles, short texts, essays on programming which 
 - ["No Silver Bullet - Essence and Accident in Software Engineering"](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf) - by Frederick P. Brooks, Jr.
 - ["Out of the Tar Pit"](http://curtclifton.net/papers/MoseleyMarks06a.pdf) - by Ben Moseley and Peter Marks
 - ["The roots of LISP"](http://www.paulgraham.com/rootsoflisp.html) - by Paul Graham
+- ["A critique of Abelson and Sussman - or - Why calculating is better than scheming"](https://www.cs.kent.ac.uk/people/staff/dat/miranda/wadler87.pdf) - by Philip Wadler
